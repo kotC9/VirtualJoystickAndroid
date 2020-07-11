@@ -1,6 +1,7 @@
 # VirtualJoystickAndroid
 This library provides a very simple and ready-to-use custom view which emulates a joystick for Xamarin.Android. 
 
+![alt-text](https://raw.githubusercontent.com/kotC9/VirtualJoystickAndroid/master/imgs/example_joystick.png)
 
 **This repository is just a transfer of the library (https://github.com/controlwear/virtual-joystick-android) from Java to Xamarin.Android(C#).
   aka .aar -> .dll**
