@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kotC9-PC\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\kotC9-PC\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\kotC9-PC\.Rider2019.3\config\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\kotC9-PC\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kotC9-PC\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_VirtualJoystickAndroid.-1490236391.00" t="ExcludeRecursive" />
+    <e p="F:\android\android-sdk-r24.4.1\platforms\android-29\data\res" t="IncludeRecursive" />
+    <e p="F:\android\android-sdk-r24.4.1\sources\android-29" t="IncludeRecursive" />
+    <e p="F:\VS\VirtualJoystickAndroid" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="VirtualJoystick.Example" t="IncludeRecursive">
+        <e p="Assets" t="Include">
+          <e p="AboutAssets.txt" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="MainActivity.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="100" t="Include">
+              <e p="designtime" t="Include">
+                <e p="Resource.designer.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AndroidManifest.xml" t="Include" />
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Resources" t="Include">
+          <e p="AboutResources.txt" t="Include" />
+          <e p="layout" t="Include">
+            <e p="activity_main.axml" t="Include" />
+          </e>
+          <e p="values" t="Include">
+            <e p="colors.xml" t="Include" />
+            <e p="ic_launcher_background.xml" t="Include" />
+            <e p="strings.xml" t="Include" />
+            <e p="styles.xml" t="Include" />
+          </e>
+        </e>
+        <e p="VirtualJoystick.Example.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="VirtualJoystickAndroid" t="IncludeRecursive">
+        <e p="Additions" t="Include">
+          <e p="AboutAdditions.txt" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Jars" t="Include">
+          <e p="AboutJars.txt" t="Include" />
+          <e p="virtualjoystick-release.aar" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="__AndroidLibraryProjects__.zip" t="Include" />
+            <e p="generated" t="Include">
+              <e p="src" t="Include">
+                <e p="__NamespaceMapping__.cs" t="Include" />
+                <e p="IO.Github.Controlwear.Virtual.Joystick.Android.BuildConfig.cs" t="Include" />
+                <e p="IO.Github.Controlwear.Virtual.Joystick.Android.JoystickView.cs" t="Include" />
+                <e p="Java.Interop.__TypeRegistrations.cs" t="Include" />
+              </e>
+            </e>
+            <e p="library_project_jars" t="Include">
+              <e p="classes.jar" t="Include" />
+            </e>
+            <e p="lp" t="Include">
+              <e p="1" t="Include">
+                <e p="jl" t="Include">
+                  <e p="bin" t="Include">
+                    <e p="classes.jar" t="Include" />
+                  </e>
+                </e>
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Transforms" t="Include">
+          <e p="EnumFields.xml" t="Include" />
+          <e p="EnumMethods.xml" t="Include" />
+          <e p="Metadata.xml" t="Include" />
+        </e>
+        <e p="VirtualJoystickAndroid.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="VirtualJoystickAndroid.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

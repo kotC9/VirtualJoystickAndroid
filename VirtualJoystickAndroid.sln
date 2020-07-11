@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualJoystickAndroid", "VirtualJoystickAndroid\VirtualJoystickAndroid.csproj", "{FC60F559-29C7-4684-B98D-F90DBC430B7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualJoystick.Example", "VirtualJoystick.Example\VirtualJoystick.Example.csproj", "{D5C3D3EF-4085-4846-9B85-AA66663A06DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC60F559-29C7-4684-B98D-F90DBC430B7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC60F559-29C7-4684-B98D-F90DBC430B7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC60F559-29C7-4684-B98D-F90DBC430B7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC60F559-29C7-4684-B98D-F90DBC430B7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5C3D3EF-4085-4846-9B85-AA66663A06DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C3D3EF-4085-4846-9B85-AA66663A06DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C3D3EF-4085-4846-9B85-AA66663A06DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C3D3EF-4085-4846-9B85-AA66663A06DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
